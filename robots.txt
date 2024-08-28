@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pensiach.github.io/sitemap.html.gz
+Sitemap: https://pensiach.github.io/app/sitemap.html.gz
+Sitemap: https://pensiach.github.io/assets/sitemap.html.gz
+Sitemap: https://pensiach.github.io/css/sitemap.html.gz
+Sitemap: https://pensiach.github.io/includes/sitemap.html.gz
+Sitemap: https://pensiach.github.io/item/sitemap.html.gz
+Sitemap: https://pensiach.github.io/src/sitemap.html.gz
